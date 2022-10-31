@@ -40,3 +40,6 @@ wheels/
 *.egg 
 *.manifest 
 *.spec  
+
+git -rm -r --cached .idea
+git -rm -r --cached __pycache__
